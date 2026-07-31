@@ -1,5 +1,10 @@
-## Hi there 👋
+### Hey there,
 
+I've very recently changed my account from `Zycata` to `Matthew-Zy` to fit my real life-ness more. If you've seen my resume or any old links I've given, they will now redirect to this account which is a former github alt account I had renamed to my old username. 
+
+Link to the new account: https://github.com/Matthew-Zy
+
+What will this account be used for? Maybe for me to be a bit more "anonymous" online. I'm aware that it's currently linking to my main account that has my name as a username but I'll remove this soon. Don't plan on being 100% anonymous. Or maybe I am, just on another account! Who knows. Have a cup of whipped cream.
 <!--
 **Zycata/Zycata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
